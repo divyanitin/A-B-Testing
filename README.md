@@ -18,4 +18,4 @@ Next, along with testing if the conversion rate changes for different pages, I a
 ## Conclusions
 There was no evidence suggesting that those who explore either page will neccessary lead to more conversions
 The country of the user did not impact the rate of conversion between the two pages
-You can also check out my article A/B Testing: the Basics[https://towardsdatascience.com/a-b-testing-the-basics-86d6d98525c9?source=friends_link&sk=86434b44e90841eb1a30e7e7cc2760eb]
+You can also check out my article [A/B Testing: the Basics] (https://towardsdatascience.com/a-b-testing-the-basics-86d6d98525c9?source=friends_link&sk=86434b44e90841eb1a30e7e7cc2760eb)
